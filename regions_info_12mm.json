@@ -1,0 +1,103 @@
+[
+    {
+        "name": "CVAH_L1",
+        "model_path": "./trained_models/12mm/CVAH1/cvah1_pca.pkl",
+        "scaling_path": "./trained_models/12mm/CVAH1/cvah1_scaling.pkl",
+        "columns_path": "./trained_models/12mm/CVAH1/cvah1_columns.pkl",
+        "threshold": 0.417606,
+        "max_td": 1,
+        "k": 5
+    },
+    {
+        "name": "CVAH_L2",
+        "model_path": "./trained_models/12mm/CVAH2/cvah2_pca.pkl",
+        "scaling_path": "./trained_models/12mm/CVAH2/cvah2_scaling.pkl",
+        "columns_path": "./trained_models/12mm/CVAH2/cvah2_columns.pkl",
+        "threshold": 0.407204,
+        "max_td": 25,
+        "k": 5
+    },
+    {
+        "name": "CVR_L1",
+        "model_path": "./trained_models/12mm/CVR1/cvr1_pca.pkl",
+        "scaling_path": "./trained_models/12mm/CVR1/cvr1_scaling.pkl",
+        "columns_path": "./trained_models/12mm/CVR1/cvr1_columns.pkl",
+        "threshold": 0.71363783609583,
+        "max_td": 5,
+        "k": 5
+    },
+    {
+        "name": "CVR_L2",
+        "model_path": "./trained_models/12mm/CVR2/cvr2_pca.pkl",
+        "scaling_path": "./trained_models/12mm/CVR2/cvr2_scaling.pkl",
+        "columns_path": "./trained_models/12mm/CVR2/cvr2_columns.pkl",
+        "threshold": 0.7443190351918882,
+        "max_td": 5,
+        "k": 6
+    },
+    {
+        "name": "PinchRoll_L1",
+        "model_path": "./trained_models/12mm/PinchRoll1/pr1_pca.pkl",
+        "scaling_path": "./trained_models/12mm/PinchRoll1/pr1_scaling.pkl",
+        "columns_path": "./trained_models/12mm/PinchRoll1/pr1_columns.pkl",
+        "threshold": 0.448239,
+        "max_td": 30,
+        "k": 5
+    },
+    {
+        "name": "PinchRoll_L2",
+        "model_path": "./trained_models/12mm/PinchRoll2/pr2_pca.pkl",
+        "scaling_path": "./trained_models/12mm/PinchRoll2/pr2_scaling.pkl",
+        "columns_path": "./trained_models/12mm/PinchRoll2/pr2_columns.pkl",
+        "threshold": 0.463430521283203,
+        "max_td": 1,
+        "k": 5
+    },
+    {
+        "name": "Stand_1-6",
+        "model_path": "./trained_models/12mm/Stand_1-6/stand_1-6_pca.pkl",
+        "scaling_path": "./trained_models/12mm/Stand_1-6/stand_1-6_scaling.pkl",
+        "columns_path": "./trained_models/12mm/Stand_1-6/stand_1-6_columns.pkl",
+        "threshold": 0.47879347553416074,
+        "max_td": 1,
+        "k": 9
+    },
+    {
+        "name": "Stand_7-12",
+        "model_path": "./trained_models/12mm/Stand_7-12/stand_7-12_pca.pkl",
+        "scaling_path": "./trained_models/12mm/Stand_7-12/stand_7-12_scaling.pkl",
+        "columns_path": "./trained_models/12mm/Stand_7-12/stand_7-12_columns.pkl",
+        "threshold": 0.558657,
+        "max_td": 5,
+        "k": 6
+    },
+    {
+        "name": "Stand_13-18",
+        "model_path": "./trained_models/12mm/Stand_13-18/stand_13-18_pca.pkl",
+        "scaling_path": "./trained_models/12mm/Stand_13-18/stand_13-18_scaling.pkl",
+        "columns_path": "./trained_models/12mm/Stand_13-18/stand_13-18_columns.pkl",
+        "threshold": 0.5542028407742932,
+        "max_td": 1,
+        "k": 13
+    },
+    {
+        "name": "SH1",
+        "model_path": "./trained_models/12mm/SH1/sh1_pca.pkl",
+        "scaling_path": "./trained_models/12mm/SH1/sh1_scaling.pkl",
+        "columns_path": "./trained_models/12mm/SH1/sh1_columns.pkl",
+        "threshold": 0.9417049929790043,
+        "max_td": 2,
+        "k": 2
+    },
+    {
+        "name": "SH2",
+        "model_path": "./trained_models/12mm/SH2/sh2_pca.pkl",
+        "scaling_path": "./trained_models/12mm/SH2/sh2_scaling.pkl",
+        "columns_path": "./trained_models/12mm/SH2/sh2_columns.pkl",
+        "threshold": 0.6279794065663342,
+        "max_td": 1,
+        "k": 10
+    }
+]
+
+
